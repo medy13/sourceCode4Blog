@@ -8,7 +8,7 @@ public class LinkedHashMapTest {
 	static HashMap<Integer,String> mapHash = new HashMap<Integer,String>();
 	
 	/**
-	 * init the two map
+	 * init the two maps
 	 */
 	private static void init(){
 		int[] ids = {201500002,201500001,201500009,201500004,201500006};
@@ -21,7 +21,7 @@ public class LinkedHashMapTest {
 	}
 	
 	/**
-	 * traverse the two map
+	 * traverse the two maps
 	 */
 	private static void traverse(){
 		Iterator<Integer> iterLinked = mapLinked.keySet().iterator();

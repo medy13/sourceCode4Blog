@@ -1,5 +1,3 @@
-package com.test2;
-
 import java.util.ArrayList;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
