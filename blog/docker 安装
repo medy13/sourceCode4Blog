@@ -1,0 +1,9 @@
+title: docker 安装
+date: 2014-10-15 16:20
+tags: Docker
+categories: Docker
+toc: true
+---
+Docker的安装详见[Docker的官方文档](https://docs.docker.com/installation/ubuntulinux/)。
+
+官方文档包含Ubuntu、Mac OS、Red Hat Enterprise Linux、CentOS等系统安装Docker的方法。
